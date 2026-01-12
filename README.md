@@ -1,2 +1,3 @@
 # ro-m3u-scraped
 RO-IPTV SCRAPED
+I DON'T OWN THE M3U'S OR THEYR HOST.
