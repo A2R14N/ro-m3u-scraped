@@ -1,417 +1,372 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVRon",TVR 1 HD
+#EXTINF:-1 tvg-id="Digi Sport 1" tvg-chno="1" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY0XzE1NTMzNjRf/RGlnaV9TcG9ydF8xLnBuZyZoYXNoPTU5/ZTYyZjAxYTUyZDYzZDFiNjU3ZDMzOWZmNTM4MDY0.png" group-title="Sport",Digi Sport 1
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://ultra2.falconx1.cfd/t001/usergend4sdkx9q2rnd.m3u8
-#EXTINF:-1 group-title="TVRon",TVR 2 HD
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/tevere2/usergendxl6d4vnd.m3u8
-#EXTINF:-1 group-title="TVRon",PRO TV HD
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://ultra3.ronanx1.cfd/porky/high/usergenx7240lrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Antena 1 HD
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://tekra113.sansey1.cfd/ah1/usergenx304Jtlrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Kanal D
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
-#EXTINF:-1 group-title="TVRon",Prima TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/prima/usergenrnd8qxl92r.m3u8
-#EXTINF:-1 group-title="TVRon",Antena 3 CNN
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Realitatea Plus
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/realy/usergenrx0j3qt.m3u8
-#EXTINF:-1 group-title="TVRon",Romania TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://vs2133.vcdn.biz/d955576a43f6ed06a913697e4dbe1618_megogo/live/hls/b/700_2490/u_sid/0/o/183396781/rsid/2930bbeb-5b16-463a-a8c1-2f6bd84d761a/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.118.147.14*asn/u_srvc/109126/u_did/web_WK1eydcMlEUw69RRnwjOGI1oJwFlc5bq/type.live/chunklist-sid1414520553411439744-b2490000.m3u8
-#EXTINF:-1 group-title="TVRon",CBS Reality
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/cbrealy/usergenrxlj5c0q.m3u8
-#EXTINF:-1 group-title="TVRon",Prima News
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/prnews/usergenx2klq7rnd.m3u8
-#EXTINF:-1 group-title="TVRon",Digi 24
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/news/usergenrk91a4gt.m3u8
-#EXTINF:-1 group-title="TVRon",Digi Sport 1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://jardo111.jardomany1.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Digi Sport 2
+#EXTINF:-1 tvg-id="Digi Sport 4" tvg-chno="6" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzcwXzE1NTMzNzBf/RGlnaV9TcG9ydF80LnBuZyZoYXNoPTNl/OTEyM2FjZTRlZGI0N2Q0NDI4YTkzMTJmZDM1ODVm.png" group-title="Sport",Digi Sport 4
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Digi Sport 3
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Digi Sport 4
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-#EXTINF:-1 group-title="TVRon",Prima Sport 1 HD
+#EXTINF:-1 tvg-id="TVR Sport" tvg-chno="6" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA0/JTJGMDglMkYxOTQ3MzA0XzE5NDczMDRf/VFZSLVNwb3J0LTEucG5nJmhhc2g9NTRi/NGUzMzFmMTQxMzEyMGEzYTRhN2FjYzRlY2ZlMDg=.png" group-title="Sport",TVR Sport
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 group-title="TVRon",Prima Sport 2 HD
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 group-title="TVRon",FilmBox Premium
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
-#EXTINF:-1 group-title="TVRon",Dizi
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
-#EXTINF:-1 group-title="TVRon",HBO
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
-#EXTINF:-1 group-title="TVRon",HBO 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
-#FAILED: HBO 3
-#EXTINF:-1 group-title="TVRon",AMC
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
-#EXTINF:-1 group-title="TVRon",Minimax
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-#EXTINF:-1 group-title="TVRon",TeenNick
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/tinnik/usergenrx8fg02rt.m3u8
-#EXTINF:-1 group-title="TVRon",Nickelodeon
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Disney Junior
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
-#FAILED: Disney Channel
-#EXTINF:-1 group-title="TVRon",Nicktoons
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
-#FAILED: History
-#EXTINF:-1 group-title="TVRon",National Geographic
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
-#EXTINF:-1 group-title="TVRon",TLC
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/telece/usergendc8sxt317rnd.m3u8
-#EXTINF:-1 group-title="TVRon",BBC Earth
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-#EXTINF:-1 group-title="TVRon",ID
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
-#EXTINF:-1 group-title="TVRon",Crime & Investigation
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/crymeinv2/usergen9o4n2srnd.m3u8
-#EXTINF:-1 group-title="TVRon",Taraf TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/tarafy/usergenrxgi1cla6qt.m3u8
-#EXTINF:-1 group-title="TVRon",Music Channel
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/mch/usergenz7h0qdt.m3u8
-#EXTINF:-1 group-title="TVRon",Favorit TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/favorit/usergenrn9jn4gba.m3u8
-#EXTINF:-1 group-title="TVRon",KISS TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
-#EXTINF:-1 group-title="TVRon",ZU TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/zzz/usergenrx8c0k3lkr.m3u8
-#EXTINF:-1 group-title="TVRon",Etno TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/etno/usergenrnd7ke5lgt.m3u8
-#EXTINF:-1 group-title="TVRon",Credo TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://d2gn5z9j34fx7w.cloudfront.net/ctv/livecredo/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",Speranta TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/uRMWH/audio/en/main.m3u8
-#FAILED: TV Paprika
-#EXTINF:-1 group-title="TVRon",PRO Cinema
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
-#FAILED: National TV
-#EXTINF:-1 group-title="TVRon",Happy Channel
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8
-#EXTINF:-1 group-title="TVRon",Acasă TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
-#EXTINF:-1 group-title="TVRon",Acasă Gold
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/gold/usergendxt638rnd.m3u8
-#FAILED: Kanal D2
-#FAILED: National 24 Plus
-#EXTINF:-1 group-title="TVRon",Antena Stars
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
-#FAILED: TVR 3
-#EXTINF:-1 group-title="TVRon",Comedy Play
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",TVR Internațional
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/teverei/usergenx6vkj8aqrnd.m3u8
-#EXTINF:-1 group-title="TVRon",Mireasa TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://stream1.antenaplay.ro/live/MireasaExtra/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",Arges TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
-#EXTINF:-1 group-title="TVRon",Catine.ro
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://stream1.antenaplay.ro/live/CaTine/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",RO-TV Valencia
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
-#EXTINF:-1 group-title="TVRon",MediCOOL TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",Hello Taste
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://stream1.antenaplay.ro/live/HelloTaste/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",Metropola TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://www.livemetropolatv.ro/MetropolaTV/Metro/chunklist_w2054159911.m3u8
-#EXTINF:-1 group-title="TVRon",CNN
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/cienen/usergenrx8ofzq1kr.m3u8
-#EXTINF:-1 group-title="TVRon",BBC News
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/bibinews/usergenz2b0ekd.m3u8
-#EXTINF:-1 group-title="TVRon",B1 TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
-#FAILED: Nasul TV
-#EXTINF:-1 group-title="TVRon",Smart TV
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://stream-aleph.m.ro/Aleph/Smartv.stream/chunklist.m3u8
-#EXTINF:-1 group-title="TVRon",Sport Extra
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
-#EXTINF:-1 group-title="TVRon",Prima Sport 3
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#FAILED: Prima Sport 4
-#FAILED: Prima Sport 5
-#EXTINF:-1 group-title="TVRon",Pro Arena
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/prx/usergenrnvdfki42man4l.m3u8
-#EXTINF:-1 group-title="TVRon",EuroSport 1
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8
-#EXTINF:-1 group-title="TVRon",EuroSport 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8
-#FAILED: Prima PPV 1
-#FAILED: Prima PPV 2
-#FAILED: Prima PPV 3
-#EXTINF:-1 group-title="TVRon",TVR Sport
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/tivisp/usergendl3f9xgfm1s.m3u8
-#EXTINF:-1 group-title="TVRon",Warner TV
+#EXTINF:-1 tvg-id="Eurosport HD" tvg-chno="8" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkxXzE1NTMzOTFf/RXVyb1Nwb3J0XzFfSEQucG5nJmhhc2g9/ZjUyZmRiMDg3ZjlmMDM3YWM4YjhmYjA4Njk4MjZjZjg=.png" group-title="Sport",Eurosport 1 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/tnnt/usergendxq726jrnd.m3u8
-#FAILED: Cinemax
-#FAILED: Cinemax 2
-#EXTINF:-1 group-title="TVRon",FilmBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-chno="10" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzkzXzE1NTMzOTNf/RXVyb1Nwb3J0XzJfSEQucG5nJmhhc2g9/NTJiZmFmMjc1NjVmODY1NzQ5NTM4OTBhZjkzMmU4ZTg=.png" group-title="Sport",Eurosport 2 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://ultra2.falconx1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8
-#EXTINF:-1 group-title="TVRon",Epic Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://kudos111.terranovax1.cfd/er02/usergenje3x9dqrnd.m3u8
+#EXTINF:-1 tvg-id="Prima Sport 1 HD" tvg-chno="12" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU4XzE1NTM2NThf/UHJpbWFfU3BvcnRfMV9IRC5wbmcmaGFz/aD0zMDNhMDcwZTcwZDRlOWY3MDA1OTY4ZDM3YjA4YjZmYQ==.png" group-title="Sport",Prima Sport 1 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
-#EXTINF:-1 group-title="TVRon",Film Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="Prima Sport 1 HD" tvg-chno="12" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU4XzE1NTM2NThf/UHJpbWFfU3BvcnRfMV9IRC5wbmcmaGFz/aD0zMDNhMDcwZTcwZDRlOWY3MDA1OTY4ZDM3YjA4YjZmYQ==.png" group-title="Sport",Prima Sport 1 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://ultra2.falconx1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8
-#EXTINF:-1 group-title="TVRon",Film Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="Prima Sport 2 HD" tvg-chno="14" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzE5XzE1OTg3MTlf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhEXzEucG5nJmhhc2g9NDBi/MDJiZTdiODJlN2U2NzI4ZWM5ZTUzMTc3MWMwZjA=.png" group-title="Sport",Prima Sport 2 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
-#EXTINF:-1 group-title="TVRon",TV 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="Prima Sport 3 HD" tvg-chno="16" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU5XzE1NTM2NTlf/UHJpbWFfU3BvcnRfM19IRC5wbmcmaGFz/aD1kMTczNDcwNjljMjQ1ZWYyN2Q0MjM2MWVmZjlmNmNhYQ==.png" group-title="Sport",Prima Sport 3 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/tivi10/usergenrxs4f7zc.m3u8
-#EXTINF:-1 group-title="TVRon",BBC First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-id="Sport Extra HD" tvg-chno="18" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png" group-title="Sport",Sport Extra HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
-#EXTINF:-1 group-title="TVRon",Bollywood Clasic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/sextra/usergenq8eo0q.m3u8
+#EXTINF:-1 tvg-id="PRO ARENA HD" tvg-chno="19" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA0/JTJGMDclMkYxNDg4NDQyXzE0ODg0NDJf/cHJvLWFyZW5hLnBuZyZoYXNoPTJjNDc3/OWVhNGMzZjA2ZDBkN2MyZjUzYmVhMjVlZmMz.png" group-title="Bărbați",PRO ARENA HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/boly/usergenr9j8s2t.m3u8
-#FAILED: AXN HD
-#EXTINF:-1 group-title="TVRon",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/prx/usergenrnvdfki42man4l.m3u8
+#EXTINF:-1 tvg-id="TVR 2 HD" tvg-chno="24" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTkzXzE3Nzk1OTNf/MTUyeDUwcHhfVFZSLTJfbGFuZHNjYXBl/SEQucG5nJmhhc2g9OTBjYzRiMmVlNmY5ZjY0MmViNDkzNmYxMDM3NDE5M2E=.png" group-title="Generalist",TVR 2 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-#FAILED: AXN Spin
-#EXTINF:-1 group-title="TVRon",AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/tevere2/usergendxl6d4vnd.m3u8
+#EXTINF:-1 tvg-id="TVR 3" tvg-chno="26" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMDklMkYxNzc5NTc2XzE3Nzk1NzZf/MTUyeDUwcHhfVFZSLTNfbGFuZHNjYXBl/LnBuZyZoYXNoPWM2MGQyNzFkNzAyNWM4YWI1Zjk4OWRiNDY4NjJkMGRl.png" group-title="Generalist",TVR 3
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
-#EXTINF:-1 group-title="TVRon",SkyShowTime 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/tevere3/usergenx4klq9qrnd.m3u8
+#EXTINF:-1 tvg-id="PRO TV HD" tvg-chno="27" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDU0XzE1NTM0NTRf/UFJPX1RWX0hELnBuZyZoYXNoPTY2YjNj/YmVhYWQ1NDA2NTQ5NDUyZTY4OTgxYmYwYmJj.png" group-title="Generalist",PRO TV HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/schi1/usergendxn430rnd.m3u8
-#EXTINF:-1 group-title="TVRon",SkyShowTime 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ultra3.ronanx1.cfd/porky/high/usergenx7240lrnd.m3u8
+#EXTINF:-1 tvg-id="Antena 1 HD" tvg-chno="29" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE5XzE1NTMzMTlf/QW50ZW5hXzFfSEQucG5nJmhhc2g9NTA2/YTUxNWJjZWIyYzQyMWIwOWNlN2I0YjM1Y2Y3ZDk=.png" group-title="Generalist",Antena 1 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://thor1.syndula1.cfd/schi2/usergendxj85trnd.m3u8
-#EXTINF:-1 group-title="TVRon",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://tekra113.sansey1.cfd/ah1/usergenx304Jtlrnd.m3u8
+#EXTINF:-1 tvg-id="Kanal D HD" tvg-chno="31" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE2XzE1NTM0MTZf/S2FuYWxfRF9IRC5wbmcmaGFzaD1jZWFj/MjZhM2M0MjFkZTVhMjA4MzY3M2IyMzNjOThiYw==.png" group-title="Generalist",Kanal D HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
-#EXTINF:-1 group-title="TVRon",Diva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
+#EXTINF:-1 tvg-id="Prima TV HD" tvg-chno="33" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ3XzE1NTM0NDdf/UHJpbWFfSEQucG5nJmhhc2g9NTJlZTY5/YWNkMWJlNTIzZGZlMjA2ODJjYmIyZWE0ZTI=.png" group-title="Generalist",Prima TV HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/prima/usergenrnd8qxl92r.m3u8
+#EXTINF:-1 tvg-id="Happy Channel HD" tvg-chno="35" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Generalist",Happy Channel HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8
+#EXTINF:-1 tvg-id="Antena Stars HD" tvg-chno="37" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc4XzE1NTM0Nzhf/U3RhcnNfSEQucG5nJmhhc2g9Yzk2MDFj/NjdjYjMzYjA5NzdjZjY4NTI4ZWUwZTgwMGE=.png" group-title="Generalist",Antena Stars HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
+#EXTINF:-1 tvg-id="National TV" tvg-chno="39" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM4XzE1NTM0Mzhf/TmF0aW9uYWxfVFYucG5nJmhhc2g9YTI5/YTM2ZjM2NTZiMDgyYWE0N2FhNDNlZDg3NzIyY2Y=.png" group-title="Generalist",National TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://galandriel1.thobias11.cfd/national/usergendxl4s0rnd.m3u8
+#EXTINF:-1 tvg-id="Etno TV HD" tvg-chno="43" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU1XzE1NTM2NTVf/RXRub19IRC5wbmcmaGFzaD1mZWI1NGRm/MGJhM2FlOTAwZDQzZDA2ZTRkYTNlMTZhOA==.png" group-title="Generalist",Etno TV HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/etno/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 tvg-id="Kanal D2 HD" tvg-chno="45" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODEyXzE3MTI4MTJf/MTUyeDUwX0thbmFsLUQyLUhELnBuZyZo/YXNoPTkxNTE4ZWNmMjgyMmE3YWM0OTE3ZjQ2MDMwNTVlNjJh.png" group-title="Generalist",Kanal D2 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cronos.mangora1.cfd/canad2/usergendx92c4rnd.m3u8
+#EXTINF:-1 tvg-id="A7 TV" tvg-chno="47" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Generalist",A7 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://a7tvlive.ro/A7TV/A7TV/chunklist_w622778190.m3u8
+#EXTINF:-1 tvg-id="Favorit TV" tvg-chno="50" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk2XzE1NTMzOTZf/RmF2b3JpdC5wbmcmaGFzaD0zNzk0OTQy/M2I3MTBjMTdhODVjMTcyMGE4MjI0NDkyZA==.png" group-title="Generalist",Favorit TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/favorit/usergenrn9jn4gba.m3u8
+#EXTINF:-1 tvg-id="Acasa HD" tvg-chno="52" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzEwXzE1NTMzMTBf/QWNhc2FfVFZfYi5wbmcmaGFzaD00NzIw/YTA5NzZkMWY5ZDM1NjJjODY4MGJhNWQ0OGZhOQ==.png" group-title="Generalist",Acasa HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
+#EXTINF:-1 tvg-id="B1 TV" tvg-chno="55" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI5XzE1NTMzMjlf/Ql8xX1RWLnBuZyZoYXNoPWM3NTczYjZlY2NiMDEwNWRkZDM1YmJkMTcwYmQ3Yjgw.png" group-title="Știri",B1 TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
+#EXTINF:-1 tvg-id="Romania TV HD" tvg-chno="57" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE5XzE3MTI4MTlf/MTUyeDUwX1JvbWFuaWEtVFYtSEQucG5n/Jmhhc2g9YzA1ZTBiYTU3OWY5NWQ5NjZhMDlhZjJlNzNlMDA2NmY=.png" group-title="Știri",Romania TV HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cronos.mangora1.cfd/rtv/usergendx473dx9qrnd.m3u8
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-chno="61" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyNzI5XzE3MTI3Mjlf/MTUyeDUwX0FudGVuYS0zLUNOTi1oZC5w/bmcmaGFzaD03NTI2Yzc2ZWJkYTM0MDk4ZWY2NGY4NTdmN2M2YjFmYg==.png" group-title="Știri",Antena 3 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
+#EXTINF:-1 tvg-id="PRIMA NEWS HD" tvg-chno="65" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE3XzE3MTI4MTdf/MTUyeDUwX1ByaW1hLU5ld3MtSEQucG5n/Jmhhc2g9NGI3NzViMDM0ZWRkOGQ2ZDdmYzdkZDc4MjRjYTVmZDM=.png" group-title="Știri",PRIMA NEWS HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/prnews/usergenx2klq7rnd.m3u8
+#EXTINF:-1 tvg-id="Euronews Romania HD" tvg-chno="66" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU2XzE1NTM2NTZf/RXVyb05ld3NfUm9tYW5pYV9IRC5wbmcm/aGFzaD1jYzE3ZWM1NDVmN2NjYjUxNDc3MjY2MzE1M2ZhODZjMg==.png" group-title="Știri",Euronews Romania HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 tvg-id="Aleph News HD" tvg-chno="68" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjUzXzE1NTM2NTNf/QWxlcGhfTmV3c19IRC5wbmcmaGFzaD0z/ZmEzNzlhZGMyZGM5ZTljMTFkMWM5Zjk3ZDYwOTU3Yw==.png" group-title="Știri",Aleph News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b948304.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-chno="71" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzQ5XzE1NTMzNDlf/Q05OLnBuZyZoYXNoPTYzMTk3ODYyNzAxZWI2N2ViZWM1NGYzMGVhMzVkNDU5.png" group-title="Știri",CNN
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/cienen/usergenrx8ofzq1kr.m3u8
+#EXTINF:-1 tvg-id="BBC World News" tvg-chno="73" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMDUlMkYxNzA4Mzc4XzE3MDgzNzhf/MTUyeDUwcHhfcG5nU0RfQkJDLnBuZyZo/YXNoPTJiMDZkOTI5ZWRhY2NlYmFmNzIzNDdiYTRjOThiODRj.png" group-title="Știri",BBC World News
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/bibinews/usergenz2b0ekd.m3u8
+#EXTINF:-1 tvg-id="Acasa Gold" tvg-chno="79" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA4XzE1NTMzMDhf/YWNhc2FfZ29sZC5wbmcmaGFzaD0wNzhi/Yjg2NTZiNWMxMWM0ZmU0MmMxNmVhMGZlYzJiYQ==.png" group-title="Pentru femei",Acasa Gold
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/gold/usergendxt638rnd.m3u8
+#EXTINF:-1 tvg-id="Film Now HD" tvg-chno="80" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk5XzE1NTMzOTlf/RmlsbV9Ob3dfSEQucG5nJmhhc2g9ZTZh/YzMyMjc0YjA0N2UyZTBmMjNiMDNhZDQ2YjZjMjk=.png" group-title="Film",Film Now HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://kuk1.modprimus1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8
+#EXTINF:-1 tvg-id="Pro Cinema HD" tvg-chno="82" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMTMlMkYxNzEyODE4XzE3MTI4MThf/MTUyeDUwX1Byby1DaW5lbWEtSEQucG5n/Jmhhc2g9ZjRjYWMxNTZlNWE4ZTQ3NjQ1NzliYWMxNWVhMDdjMTY=.png" group-title="Film",Pro Cinema HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
+#EXTINF:-1 tvg-id="Diva" tvg-chno="84" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzc4XzE1NTMzNzhf/RGl2YV9UVi5wbmcmaGFzaD03YjIxMTNm/MmE4ZjhmOGRmNTk4MWNmYTBkM2IxMGUyOA==.png" group-title="Film",Diva
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thor1.syndula1.cfd/diva/usergenm48Qhxrnd.m3u8
-#FAILED: Nick Jr.
-#EXTINF:-1 group-title="TVRon",Cartoon Network
+#EXTINF:-1 tvg-id="HGTV Sd" tvg-chno="87" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAzXzE1NTM0MDNf/SEdUVi5wbmcmaGFzaD00ZjExNjcxNDA3M2EzMDY2ZDQ3ZTQ1NjE4OGQ0YmU1ZQ==.png" group-title="Documentar",HGTV Sd
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/cartun/usergenrx2xfzol0q.m3u8
-#EXTINF:-1 group-title="TVRon",Duck TV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/duk/usergenz9ak7fxt.m3u8
-#EXTINF:-1 group-title="TVRon",Cartoonito
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/bomer/usergenrx2c86jey.m3u8
-#EXTINF:-1 group-title="TVRon",Jimjam
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/jimy/usergenq3n0lz7kr.m3u8
-#EXTINF:-1 group-title="TVRon",Discovery Channel
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
-#EXTINF:-1 group-title="TVRon",Nat Geographic Wild
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/wild/usergenr9qsi5gt.m3u8
-#EXTINF:-1 group-title="TVRon",Viasat Explore
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-#EXTINF:-1 group-title="TVRon",Viasat Nature
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
-#EXTINF:-1 group-title="TVRon",Viasat History
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
-#EXTINF:-1 group-title="TVRon",HGTV
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thor1.syndula1.cfd/hgtivi/usergenx3kly4rnd.m3u8
-#EXTINF:-1 group-title="TVRon",Tv Arad
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://live.djemba.ro/live/tvaradlive/chunklist_w326220482.m3u8
-#EXTINF:-1 group-title="TVRon",Balcan Music TV
+#EXTINF:-1 tvg-id="AXN White" tvg-chno="90" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI4XzE1NTMzMjhf/QVhOX1doaXRlLnBuZyZoYXNoPWFmZWM3/NjNlNWMwMjBhMTQ1MzY3ZjYyOGNiNTFhOGRh.png" group-title="Film",AXN White
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://arwen1.panaka1.cfd/balkmus/usergenko4x0g.m3u8
-#EXTINF:-1 group-title="TVRon",Rock TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+#EXTINF:-1 tvg-id="AXN Black" tvg-chno="91" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI1XzE1NTMzMjVf/QVhOX0JsYWNrLnBuZyZoYXNoPTBlZjg4/NmY0ZmYwZjkwODM2YzBmZGQ3MTBjNDIzYTY1.png" group-title="Film",AXN Black
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
+#EXTINF:-1 tvg-id="AXN Spin" tvg-chno="92" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI3XzE1NTMzMjdf/QVhOX1NwaW4ucG5nJmhhc2g9NjUyMGE0/MTBlZGM1NmY1MDdkMzhmM2JlYjQ2N2UzZTQ=.png" group-title="Film",AXN Spin
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-id="Warner TV" tvg-chno="93" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTA3XzE1NTM1MDdf/V2FybmVyX1RWLnBuZyZoYXNoPTc0MDc1/ZTZjNTkwZmI2NmQxOWVkZWVhOTVlZTU2YTky.png" group-title="Film",Warner TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/tnnt/usergendxq726jrnd.m3u8
+#EXTINF:-1 tvg-id="Epic Drama" tvg-chno="94" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA1/JTJGMDglMkYxNzI2MDg4XzE3MjYwODhf/MTUyeDUwX0VwaWMtRHJhbWEucG5nJmhh/c2g9MGNlZjUyNTc2MDNlNjc4MTQ5ZWI4NTNjMTdhN2RhODQ=.png" group-title="Film",Epic Drama
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-chno="95" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE2XzE1NTMzMTZf/YW1jX0hELnBuZyZoYXNoPWU1N2M4OTYyNzQ0Y2U2ZmEwNDM3MTJiZTUyZGI4Zjkx.png" group-title="Film",AMC HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+#EXTINF:-1 tvg-id="Film Cafe" tvg-chno="97" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzk3XzE1NTMzOTdf/RmlsbV9DYWZlLnBuZyZoYXNoPTAwZDM4/Yjc5YWVlMDQ0NjBhNWQzZDAxYzVmNDVhMTU1.png" group-title="Film",Film Cafe
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-chno="98" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUxXzE1NTMzNTFf/Q29tZWR5X0NlbnRyYWwucG5nJmhhc2g9/NzU4YmRmNjYwNmViMDg0NWY0MWZmZDRiN2M4MDkxZmI=.png" group-title="Film",Comedy Central
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+#EXTINF:-1 tvg-id="BBC First HD" tvg-chno="100" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4OTkzXzE1OTg5OTNf/QkJDLUZpcnN0LUhELnBuZyZoYXNoPWNh/ZGVhNjUxZGEyMjZjNDRiMjlhMzA2NzdhZTU1MGRj.png" group-title="Film",BBC First HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-chno="101" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODRfMTI5ODc4NF9I/Qk8tSEQucG5nJmhhc2g9MzU5N2Y0MGZkOTdmOTFmMTdmZjVkN2FkZjQzMmYzMDk=.png" group-title="Film",HBO HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-chno="103" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODBfMTI5ODc4MF9I/Qk8tMi1IRC5wbmcmaGFzaD04ODI1MDAy/N2MwYWQ1YzlmODQ4MGVkZDQ2MTJmMDhiYQ==.png" group-title="Film",HBO 2 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-chno="107" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MjlfMTI5ODcyOV9D/SU5FTUFYLUhELnBuZyZoYXNoPThlMTc0/ZjQ3MWViZmVkZjA3ODk0OTAzNzMwMWI3OGI1.png" group-title="Film",Cinemax HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8
+#EXTINF:-1 tvg-id="Sky Showtime 1 HD" tvg-chno="110" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA0/JTJGMjUlMkYxOTYwOTY5XzE5NjA5Njlf/U2t5U2hvd3RpbWUtMS1saWdodC1iZy5w/bmcmaGFzaD04NzdhZDM3MGMyMGU4NDg5MTRhMDQ4YmFhOTM1OGFmOQ==.png" group-title="Film",Sky Showtime 1 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/schi1/usergendxn430rnd.m3u8
+#EXTINF:-1 tvg-id="Sky Showtime 2 HD" tvg-chno="111" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA0/JTJGMjUlMkYxOTYwOTcwXzE5NjA5NzBf/U2t5U2hvd3RpbWUtMi1saWdodC1iZy5w/bmcmaGFzaD1lNWFkZTg3ZjFkMDdlMWNkNWY0NTcxMjkzZjRlZDY2OQ==.png" group-title="Film",Sky Showtime 2 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/schi2/usergendxj85trnd.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-chno="117" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA4/JTJGMTglMkYxNzg0MzI0XzE3ODQzMjRf/MTUyeDUwcHhfTmlja2Vsb2Rlb24ucG5n/Jmhhc2g9OTBhZDBkYTFhM2Y5MTZkZmI0MWU5ZTkwMDM2ZjcwMWU=.png" group-title="Pentru copii",Nickelodeon
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+#EXTINF:-1 tvg-id="Minimax" tvg-chno="118" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzAwXzE1OTg3MDBf/TWluaW1heC0yLnBuZyZoYXNoPWI1MTUz/NTA1NTk2YmE2Mzk2M2M1MjcwYmNmMDhiYTlk.png" group-title="Pentru copii",Minimax
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-chno="119" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzQwXzE1NTMzNDBf/Q2FydG9vbl9OZXR3b3JrLnBuZyZoYXNo/PTUxZGZmODhmNDM5YTZiZDMyMTMyNjkwOTlmYjUyODZk.png" group-title="Pentru copii",Cartoon Network
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/cartun/usergenrx2xfzol0q.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-chno="120" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwNTg0XzE5OTA1ODRf/RGlzbmV5LUNoYW5uZWwucG5nJmhhc2g9/NjJjMGE5MmY1YTJiMzQ3OTc0MDQ5ZDhlOTNkMDc4ZTY=.png" group-title="Pentru copii",Disney Channel
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-chno="121" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyNCUyRjA2/JTJGMDMlMkYxOTkwMTA5XzE5OTAxMDlf/MTUyeDUwLURpc25leS1Kci5wbmcmaGFz/aD1lNzdkZmZjNjhiZGIxMWNmY2EyZmRjYmJhMGViMjJhMQ==.png" group-title="Pentru copii",Disney Junior
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 tvg-id="Duck TV" tvg-chno="123" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzc5XzE1NTMzNzlf/RHVja19UVi5wbmcmaGFzaD05OTNiYWJm/OTNhZWYxM2VmNjM4NTg5MWVmYjg4MTI4NQ==.png" group-title="Pentru copii",Duck TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/duk/usergenz9ak7fxt.m3u8
+#EXTINF:-1 tvg-id="Jim Jam" tvg-chno="125" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjAy/JTJGMTQlMkYxNjc3ODc1XzE2Nzc4NzVf/bG9nb0ppbUphbS5wbmcmaGFzaD02OGUz/MjQxOGFkZmNmNjViYTczMzQ4ZjdmMDg4ZTVkMw==.png" group-title="Pentru copii",Jim Jam
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/jimy/usergenq3n0lz7kr.m3u8
+#EXTINF:-1 tvg-id="Nicktoons Ro" tvg-chno="127" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQzXzE1NTM0NDNf/Tmlja1Rvb25zLnBuZyZoYXNoPWVkMWU5/ZmIxMTYzYmViNGI1OTNlYTYzYzZjY2Q4YThm.png" group-title="Pentru copii",Nicktoons Ro
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-chno="138" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzc0XzE1NTMzNzRf/RGlzY292ZXJ5LnBuZyZoYXNoPTQ0ZjBh/NTRhMjNhOTk5ZGRmODI0ZDY4YWU4OTBiNTg4.png" group-title="Documentar",Discovery Channel
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-chno="139" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDgzXzE1NTM0ODNf/VExDLnBuZyZoYXNoPTdlNjQ5YTdmODI0MDA3ZDUzZDg3Y2Y1MjZhODMwYjhl.png" group-title="Documentar",TLC
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/telece/usergendc8sxt317rnd.m3u8
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-chno="142" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDM3XzE1NTM0Mzdf/TmF0aW9uYWxfR2VvZ3JhcGhpY19IRC5w/bmcmaGFzaD02NDkzYzhlNjU1MTFiNTM0M2YyN2NjYjAwZjYxNGNkMw==.png" group-title="Documentar",National Geographic HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+#EXTINF:-1 tvg-id="Viasat Nature HD" tvg-chno="144" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTA2XzE1NTM1MDZf/Vmlhc2F0X05hdHVyZV9IRC5wbmcmaGFz/aD03YjZiMWVhMTI0OWIyMWFhYjBlMGFhMGYzYjBmOWViMg==.png" group-title="Documentar",Viasat Nature HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-chno="149" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA5/JTJGMTglMkYxODAyMTEzXzE4MDIxMTNf/MTUyeDUwcHhfQkJDRWFydGhIRC5wbmcm/aGFzaD03MjlkOGQyOWQ2MTQyMDIzYWFiN2E1MGNmM2QzYTE1MA==.png" group-title="Documentar",BBC Earth HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+#EXTINF:-1 tvg-id="Viasat Explore HD" tvg-chno="153" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTAyXzE1NTM1MDJf/Vmlhc2F0X0V4cGxvcmVfSEQucG5nJmhh/c2g9YTBmZjQ2YzdjZjlmYzgxMjZlMjM2YjhiZTIxNTViMmU=.png" group-title="Documentar",Viasat Explore HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 tvg-id="Viasat History HD" tvg-chno="155" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTA0XzE1NTM1MDRf/Vmlhc2F0X0hpc3RvcnlfSEQucG5nJmhh/c2g9YjgxYWY1OTY1YmI1OTg2ZDVlYTY1MzczYWZhZDRkNmI=.png" group-title="Documentar",Viasat History HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+#EXTINF:-1 tvg-id="ALFA OMEGA TV HD" tvg-chno="169" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE0XzE1NTMzMTRf/QWxmYV9zaV9PbWVnYV9UVi5wbmcmaGFz/aD1kNDgwODQzMjBlNGU0ZmFmZmUyNGQ2ZjFhNTM3NDQyYQ==.png" group-title="Educatie-Spiritualitate",ALFA OMEGA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-id="Speranta TV" tvg-chno="170" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc0XzE1NTM0NzRf/U3BlcmFudGFfVFYucG5nJmhhc2g9ZTFh/Njk2NDA2Y2Q4MjI1YWYwYzdiYzY4Y2FjOThjNGU=.png" group-title="Social-Spiritual",Speranta TV
 #EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 group-title="TVRon",Atomic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/uRMWH/audio/en/main.m3u8
+#EXTINF:-1 tvg-id="Atomic TV HD" tvg-chno="171" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzIzXzE1NTMzMjNf/QXRvbWljX1RWLnBuZyZoYXNoPWE5MjEy/MjgyNWM3OWVmMjQyMzdlMDVkNGYyNWQ2MzE1.png" group-title="Muzică",Atomic TV HD
 #EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://atomic.streamnet.ro/atomictv.m3u8
-#FAILED: U TV
-#EXTINF:-1 group-title="TVRon",Impact Tv Dance
+#EXTINF:-1 tvg-id="Kiss TV" tvg-chno="174" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDE4XzE1NTM0MThf/S2lzc19UVi5wbmcmaGFzaD1lZjMyMmRl/N2E1ZjdkNjA3ODZhZDQ4MmQxY2Y3YTI4MQ==.png" group-title="Muzică",Kiss TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/kys/usergenrndgs6h1vys2n4l.m3u8
+#EXTINF:-1 tvg-id="Music Channel" tvg-chno="178" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMxXzE1NTM0MzFf/TXVzaWNfQ2hhbm5lbC5wbmcmaGFzaD04/NTgxZjRmMGVjMzc1ZWJiZmRkMWM5NTAzMzM1ZDk4Mw==.png" group-title="Muzică",Music Channel
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/mch/usergenz7h0qdt.m3u8
+#EXTINF:-1 tvg-id="ZU TV HD" tvg-chno="179" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTA5XzE1NTM1MDlf/WlVfVFZfSEQucG5nJmhhc2g9NjBmMDY3/OWJkN2UzODliZTQ1YjFkMmY2YjdmMDg5ZjA=.png" group-title="Muzică",ZU TV HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/zzz/usergenrx8c0k3lkr.m3u8
+#EXTINF:-1 tvg-id="Balcan Music TV" tvg-chno="186" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzMxXzE1NTMzMzFf/QmFsY2FuX011c2ljX1RWLnBuZyZoYXNo/PTg1YzJmNTdlYzBmNTYwNzdhMWNlNjhmYmIxNzE2ZDQy.png" group-title="Muzică",Balcan Music TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/balkmus/usergenko4x0g.m3u8
+#EXTINF:-1 tvg-id="Nasul TV" tvg-chno="194" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMyXzE1NTM0MzJf/TmFzdWxfVFYucG5nJmhhc2g9MTZiZGZj/ZTNkNjA2NGJhODJhZjMyNmM4OTBkNWQ0ZjE=.png" group-title="Publicistică",Nasul TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="Job TV" tvg-chno="210" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDEzXzE1NTM0MTNf/Sm9iX1RWLnBuZyZoYXNoPTliMTI5OTQxMjE5OTA5ZDM0MDA4ZjQ5ZWQxOGJkZTYz.png" group-title="Informativ Educativ",Job TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://jobtvserver.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="Antena Comedy" tvg-chno="" tvg-logo="" group-title="Altele",Antena Comedy Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBS Reality" tvg-chno="" tvg-logo="" group-title="Altele",CBS Reality
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/cbrealy/usergenrxlj5c0q.m3u8
+#EXTINF:-1 tvg-id="Crime & Investigation" tvg-chno="" tvg-logo="" group-title="Altele",Crime & Investigation Online Gratis - RDS Live
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/crymeinv2/usergen9o4n2srnd.m3u8
+#EXTINF:-1 tvg-id="Dizi" tvg-chno="" tvg-logo="" group-title="Altele",Dizi
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
+#EXTINF:-1 tvg-id="FilmBox Premium" tvg-chno="" tvg-logo="" group-title="Altele",FilmBox Premium Online Gratis - RDS Live
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
+#EXTINF:-1 tvg-id="Filmbox" tvg-chno="" tvg-logo="" group-title="Altele",Filmbox Online Gratis - RDS Live
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+#EXTINF:-1 tvg-id="Hello Taste" tvg-chno="" tvg-logo="" group-title="Altele",Hello Taste
 #EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stream1.antenaplay.ro/live/HelloTaste/chunklist.m3u8
+#EXTINF:-1 tvg-id="ID Investigation" tvg-chno="" tvg-logo="" group-title="Altele",ID Investigation Online Gratis - RDS Live
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
+#EXTINF:-1 tvg-id="Impact TV Dance" tvg-chno="" tvg-logo="" group-title="Altele",Impact TV Dance Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 group-title="TVRon",Impact TV Manele
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Impact TV Manele" tvg-chno="" tvg-logo="" group-title="Altele",Impact TV Manele Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 group-title="TVRon",MAGIC TV
+#EXTINF:-1 tvg-id="Medicool TV" tvg-chno="" tvg-logo="" group-title="Altele",Medicool TV Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mireasa TV" tvg-chno="" tvg-logo="" group-title="Altele",Mireasa TV Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stream1.antenaplay.ro/live/MireasaExtra/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mooz Dance" tvg-chno="" tvg-logo="" group-title="Altele",Mooz Dance
 #EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
-#EXTINF:-1 group-title="TVRon",Mooz Dance
-#EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 group-title="TVRon",Mooz Hits
+#EXTINF:-1 tvg-id="Mooz Hits" tvg-chno="" tvg-logo="" group-title="Altele",Mooz Hits
 #EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 group-title="TVRon",Mooz Ro
+#EXTINF:-1 tvg-id="Mooz Ro" tvg-chno="" tvg-logo="" group-title="Altele",Mooz Ro
 #EXTVLCOPT:http-referrer=https://tvron.ro/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 tvg-id="Observator News" tvg-chno="" tvg-logo="" group-title="Altele",Observator News Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews_600k.m3u8
+#EXTINF:-1 tvg-id="Profi 24 TV" tvg-chno="" tvg-logo="" group-title="Altele",Profi 24 TV Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="RO-TV Valencia" tvg-chno="" tvg-logo="" group-title="Altele",RO-TV Valencia
+#EXTVLCOPT:http-referrer=https://tvron.ro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-id="TVR Internațional" tvg-chno="" tvg-logo="" group-title="Altele",TVR Internațional
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/teverei/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 tvg-id="Telestar 1" tvg-chno="" tvg-logo="" group-title="Altele",Telestar 1 Online Gratis - RDS Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
