@@ -1,0 +1,101 @@
+=== CHANNELS IN DIGI EPG BUT MISSING FROM OUR PLAYLIST ===
+AXN
+Agro TV
+Angelus TV
+Bollywood
+Bollywood Clasic
+Bollywood Stars
+Boom TV
+CANAL 33 HD
+CGTN Documentary HD
+CGTN HD
+Cartoonito
+Cinemaraton
+Cinemax 2 HD
+Columna TV
+Comedy Central Hungary
+Cool TV
+Credo TV HD
+Da Vinci Learning
+Deutsche Welle
+Digi 24
+Digi 4k
+Digi Animal World
+Digi Life
+Digi Sport 2
+Digi Sport 3
+Digi World
+Discovery HD
+Duna TV
+Duna World
+E! Entertainment SD
+Emi TV HD
+Eurosport 4k
+Fashion TV
+Film +
+Film Mania
+Film4
+Food Network
+H!T Music Channel
+HBO 3
+Hir TV
+History Channel
+Hora TV
+Inedit TV HD
+Love Nature 4K
+M1 HD
+M2
+M5
+MDI TV
+MTV
+Magyar Atv
+Magyar Slager TV
+Maria TV
+Metropola TV
+Mezzo
+Minimax Hu
+Moldova TV HD
+NCN
+National 24 Plus
+National Geographic Wild
+Nick Jr
+Nostalgia TV
+Orizont TV
+PRIMA COMEDY
+PRO TV International
+Party Mix
+Prima World HD
+RTL 2
+RTL Klub
+RTL Television
+RTL+
+Rai 1
+Rai 3
+Realitatea Plus
+Sorozat+
+Super One
+Super Rtl
+TV 1000
+TV 2
+TV 5
+TV 5 Monde
+TV CITY
+TV Paprika
+TV-AS
+TV4
+TVR 1
+TVR Cultural
+TVR Folclor
+TVR Info
+Taraf TV
+The Fishing And Hunting Channel
+Traditional TV
+Tralala Desene Animate
+Tralala TV HD
+Travel Channel
+Travel Mix HD
+Trinitas TV
+U Televiziune Interactiva
+Valea Prahovei TV
+
+Total Missing: 98 channels

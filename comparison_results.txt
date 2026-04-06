@@ -1,0 +1,27 @@
+Reading playlists...
+Found 99 unique channels in romania_playlist.m3u
+Found 98 unique channels in romania_6/4/26.m3u
+
+--- CHANNELS IN romania_playlist.m3u THAT ARE MISSING FROM romania_6/4/26.m3u ---
+- Arges TV
+- Bollywood Clasic
+- Cartoonito
+- Catine.ro
+- Comedy Play
+- Credo TV
+- Digi 24
+- Digi Sport 2
+- Digi Sport 3
+- ID
+- MAGIC TV
+- Metropola TV
+- Nat Geographic Wild
+- Realitatea Plus
+- Smart TV
+- TV 1000
+- TVR 1 HD
+- Taraf TV
+- TeenNick
+- Tv Arad
+
+Total missing: 20 channels.
