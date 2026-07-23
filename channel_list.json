@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "DigiSport 1",
+    "logo": "https://i.imgur.com/AA0v6bC.png",
+    "category": "Sport",
+    "number": 2
+  },
+  {
+    "name": "DigiSport 2",
+    "logo": "https://i.imgur.com/qkkAjYV.png",
+    "category": "Sport",
+    "number": 3
+  },
+  {
+    "name": "DigiSport 3",
+    "logo": "https://i.imgur.com/Ak4rr7O.png",
+    "category": "Sport",
+    "number": 5
+  },
+  {
+    "name": "DigiSport 4",
+    "logo": "https://i.imgur.com/aumhTKz.png",
+    "category": "Sport",
+    "number": 7
+  },
+  {
+    "name": "Eurosport 1",
+    "logo": "https://i.imgur.com/4RNvT8u.png",
+    "category": "Sport",
+    "number": 8
+  },
+  {
+    "name": "Eurosport 2",
+    "logo": "https://i.imgur.com/cMFzEky.png",
+    "category": "Sport",
+    "number": 10
+  },
+  {
+    "name": "PrimaSport 1",
+    "logo": "https://i.imgur.com/yfaEWPz.png",
+    "category": "Sport",
+    "number": 12
+  },
+  {
+    "name": "PrimaSport 2",
+    "logo": "https://i.imgur.com/YrG0AfU.png",
+    "category": "Sport",
+    "number": 14
+  },
+  {
+    "name": "PrimaSport 3",
+    "logo": "https://i.imgur.com/u7x23aj.png",
+    "category": "Sport",
+    "number": 16
+  },
+  {
+    "name": "Sport Extra",
+    "logo": "https://i.imgur.com/3Txe8Tt.png",
+    "category": "Sport",
+    "number": 18
+  },
+  {
+    "name": "Pro Arena",
+    "logo": "https://i.imgur.com/5aL2A4a.png",
+    "category": "Sport",
+    "number": 19
+  },
+  {
+    "name": "TVR Sport",
+    "logo": "https://yt3.googleusercontent.com/kki7wjAdOlHxIKAb45DBO3D4JN51dlonXm7InMzWNd8-AtdN00wkjH4L1MlRhG3zeSKZo1k08Q",
+    "category": "Sport",
+    "number": 21
+  },
+  {
+    "name": "TVR 1",
+    "logo": "https://i.imgur.com/A0zk3C7.png",
+    "category": "Generaliste",
+    "number": 22
+  },
+  {
+    "name": "TVR 2",
+    "logo": "https://i.imgur.com/2jBAqhv.png",
+    "category": "Generaliste",
+    "number": 24
+  },
+  {
+    "name": "TVR 3",
+    "logo": "https://i.imgur.com/WILmGdc.png",
+    "category": "Generaliste",
+    "number": 26
+  },
+  {
+    "name": "Pro TV",
+    "logo": "https://i.imgur.com/1dJMmlD.jpeg",
+    "category": "Generaliste",
+    "number": 27
+  },
+  {
+    "name": "Antena 1",
+    "logo": "https://yt3.googleusercontent.com/BND45eF3yEM7fi7dWzEHVI02vUC9YVv8UXAClW6Ock6enB8-yBzQZQZSp7PiaUET-DoTuLbl",
+    "category": "Generaliste",
+    "number": 29
+  },
+  {
+    "name": "Kanal D",
+    "logo": "https://i.imgur.com/Sh0oR54.png",
+    "category": "Generaliste",
+    "number": 31
+  },
+  {
+    "name": "Prima TV",
+    "logo": "https://i.imgur.com/9BBWoOa.png",
+    "category": "Generaliste",
+    "number": 33
+  },
+  {
+    "name": "Happy Channel",
+    "logo": "https://yt3.googleusercontent.com/CRPADTwuuYN_kOkRj104AyWbdxx_7oAWUw1BeKuOMBtcYpJXi8I_3zy09r9mf2jWP8zaw-vl",
+    "category": "Generaliste",
+    "number": 35
+  },
+  {
+    "name": "Antena Stars",
+    "logo": "https://yt3.googleusercontent.com/nyfqN1cZwngwfHTSrALQl8KnvVrnx-evPKLRJ7lqjPAtUwc-_CWYs85T7Kn4zGXoZ8krMw_L",
+    "category": "Generaliste",
+    "number": 37
+  },
+  {
+    "name": "National TV",
+    "logo": "https://i.imgur.com/kEWkXVb.png",
+    "category": "Generaliste",
+    "number": 39
+  },
+  {
+    "name": "National 24 Plus",
+    "logo": "https://i.imgur.com/ysV3GE5.png",
+    "category": "Locale",
+    "number": 40
+  },
+  {
+    "name": "Metropola TV",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mIZLk4KkxF6ergF7AoMtzaT5ZnMP_M5ze_yb1C4xjy",
+    "category": "Locale",
+    "number": 41
+  },
+  {
+    "name": "Etno TV",
+    "logo": "https://i.imgur.com/VJjQWRq.png",
+    "category": "Generaliste",
+    "number": 42
+  },
+  {
+    "name": "Kanal D2",
+    "logo": "https://i.imgur.com/Plc7747.png",
+    "category": "Generaliste",
+    "number": 44
+  },
+  {
+    "name": "a7 TV",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mK7cPpLvLwFvFEFVINkxgi7pKldlx_oOv7ydvKocGygF4",
+    "category": "Generaliste",
+    "number": 46
+  },
+  {
+    "name": "Moldova TV",
+    "logo": "https://i.imgur.com/Z47s9zx.png",
+    "category": "Locale",
+    "number": 48
+  },
+  {
+    "name": "Favorit",
+    "logo": "https://i.imgur.com/AbAGCGa.png",
+    "category": "Generaliste",
+    "number": 49
+  },
+  {
+    "name": "Travel Mix",
+    "logo": "https://i.imgur.com/v5GXBup.png",
+    "category": "Documentare",
+    "number": 50
+  },
+  {
+    "name": "Acasa TV",
+    "logo": "https://i.imgur.com/7HFocOl.png",
+    "category": "Generaliste",
+    "number": 51
+  },
+  {
+    "name": "TVR Info",
+    "logo": "https://yt3.googleusercontent.com/xy0YjhX2lrKzRB9CmXcRQ-uCGj5h5kJL4DzLrDRINMCEt4Ac1-0FVDrDzOnZ_ZFRitmUPfwQzg",
+    "category": "Stiri",
+    "number": 54
+  },
+  {
+    "name": "B1 TV",
+    "logo": "https://i.imgur.com/dhaYNlE.png",
+    "category": "Stiri",
+    "number": 55
+  },
+  {
+    "name": "Romania TV",
+    "logo": "https://i.imgur.com/8ffRLZG.png",
+    "category": "Stiri",
+    "number": 57
+  },
+  {
+    "name": "Digi24",
+    "logo": "https://i.imgur.com/oG3Dxsa.png",
+    "category": "Stiri",
+    "number": 59
+  },
+  {
+    "name": "Antena 3 CNN",
+    "logo": "https://yt3.googleusercontent.com/ILVLB1XalMSN_8t4_UeuRcr7u2vMiIt_56my8nrerXq2PJ_JpZh2nr2p9iaqpX7MCV8FqfyhBFk",
+    "category": "Stiri",
+    "number": 61
+  },
+  {
+    "name": "Realitatea Plus",
+    "logo": "https://i.imgur.com/aSEwnRp.png",
+    "category": "Stiri",
+    "number": 63
+  },
+  {
+    "name": "Prima News",
+    "logo": "https://i.imgur.com/iFeUpN2.png",
+    "category": "Stiri",
+    "number": 65
+  },
+  {
+    "name": "Euronews RO",
+    "logo": "https://i.imgur.com/YNoVB7W.png",
+    "category": "Stiri",
+    "number": 66
+  },
+  {
+    "name": "Aleph News",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nQeUgyT2s2PeqbGV8pnjdGE_0fTRnjsB_bxhCSO8ZMRQ",
+    "category": "Stiri",
+    "number": 68
+  },
+  {
+    "name": "CNN",
+    "logo": "https://yt3.googleusercontent.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA",
+    "category": "Stiri",
+    "number": 69
+  },
+  {
+    "name": "Deutsche Welle",
+    "logo": "https://yt3.googleusercontent.com/Djy5dTwHgXnE0gPZz-8CtACGZr5_i18YiaZZ0ZXc6BFM6br-Qfr7ZiOf6pG7l0GEwXwcttnm7w",
+    "category": "Stiri",
+    "number": 70
+  },
+  {
+    "name": "BBC World News",
+    "logo": "https://i.imgur.com/rw7QGq4.png",
+    "category": "Stiri",
+    "number": 71
+  },
+  {
+    "name": "Acasa Gold",
+    "logo": "https://i.imgur.com/SAk1lF6.png",
+    "category": "Generaliste",
+    "number": 78
+  },
+  {
+    "name": "Film Now",
+    "logo": "https://i.imgur.com/WojutvG.png",
+    "category": "Filme",
+    "number": 80
+  },
+  {
+    "name": "Pro Cinema",
+    "logo": "https://i.imgur.com/OLZm9pr.png",
+    "category": "Filme",
+    "number": 82
+  },
+  {
+    "name": "DIVA",
+    "logo": "https://i.imgur.com/cIQvsr7.png",
+    "category": "Filme",
+    "number": 84
+  },
+  {
+    "name": "Viasat Kino",
+    "logo": "https://yt3.googleusercontent.com/e7-jy8MGE6Lzg0wa6gjjaO3SR-OtWlQO1lIUrsmvC2_1u9vyE_GUp1B1hnL7mnDenAXR1_DE",
+    "category": "Filme",
+    "number": 86
+  },
+  {
+    "name": "Cinemaraton",
+    "logo": "https://i.imgur.com/eSdcGga.png",
+    "category": "Filme",
+    "number": 87
+  },
+  {
+    "name": "AXN",
+    "logo": "https://i.imgur.com/a2kGbU8.png",
+    "category": "Filme",
+    "number": 89
+  },
+  {
+    "name": "AXN White",
+    "logo": "https://i.imgur.com/5RB4vy9.png",
+    "category": "Filme",
+    "number": 91
+  },
+  {
+    "name": "AXN Black",
+    "logo": "https://i.imgur.com/7BL54zv.png",
+    "category": "Filme",
+    "number": 92
+  },
+  {
+    "name": "AXN Spin",
+    "logo": "https://i.imgur.com/h7e0Yzo.png",
+    "category": "Filme",
+    "number": 93
+  },
+  {
+    "name": "Warner TV",
+    "logo": "https://i.imgur.com/lU4zs7s.png",
+    "category": "Filme",
+    "number": 94
+  },
+  {
+    "name": "Epic Drama",
+    "logo": "https://i.imgur.com/fyRZ2Z6.png",
+    "category": "Filme",
+    "number": 95
+  },
+  {
+    "name": "AMC",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nBZB9NZI8wwzJ0r9lBO5BXicV_-RNIzQyB1FMSIU_lLQ",
+    "category": "Filme",
+    "number": 96
+  },
+  {
+    "name": "Film Cafe",
+    "logo": "https://i.imgur.com/QeYbZKY.png",
+    "category": "Filme",
+    "number": 98
+  },
+  {
+    "name": "Comedy Central",
+    "logo": "https://yt3.googleusercontent.com/kENjxM3Q5B0rgBE2kTPlzRYpbT8xc7gMYuhQRz7NVz6B-O9pTndDZt8UhOneZAOBjFInk-XbAw4",
+    "category": "Filme",
+    "number": 100
+  },
+  {
+    "name": "Prima Comedy",
+    "logo": "https://i.imgur.com/TH0lIPn.png",
+    "category": "Filme",
+    "number": 101
+  },
+  {
+    "name": "BBC First",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nPaojX9vr2Eyf7wn1alNipyuPSUBwrzFRDEEQpke3fnII",
+    "category": "Filme",
+    "number": 102
+  },
+  {
+    "name": "HBO",
+    "logo": "https://i.imgur.com/CYlPwgY.png",
+    "category": "Filme",
+    "number": 103
+  },
+  {
+    "name": "HBO 2",
+    "logo": "https://i.imgur.com/ODnFpUI.png",
+    "category": "Filme",
+    "number": 105
+  },
+  {
+    "name": "HBO 3",
+    "logo": "https://i.imgur.com/ODnFpUI.png",
+    "category": "Filme",
+    "number": 107
+  },
+  {
+    "name": "Cinemax",
+    "logo": "https://i.imgur.com/qEGBvtf.png",
+    "category": "Filme",
+    "number": 109
+  },
+  {
+    "name": "Cinemax 2",
+    "logo": "https://i.imgur.com/MExjnaq.png",
+    "category": "Filme",
+    "number": 111
+  },
+  {
+    "name": "SkyShowTime 1",
+    "logo": "https://i.imgur.com/3BLMtBS.png",
+    "category": "Filme",
+    "number": 112
+  },
+  {
+    "name": "SkyShowTime 2",
+    "logo": "https://i.imgur.com/4YEp6KI.png",
+    "category": "Filme",
+    "number": 113
+  },
+  {
+    "name": "BollywooD Classic",
+    "logo": "https://i.imgur.com/08Ef96u.png",
+    "category": "Filme",
+    "number": 114
+  },
+  {
+    "name": "Nostalgia TV",
+    "logo": "https://i.imgur.com/MRjlmh1.png",
+    "category": "Filme",
+    "number": 117
+  },
+  {
+    "name": "Film Mania",
+    "logo": "https://i.imgur.com/BGDFD0h.png",
+    "category": "Filme",
+    "number": 118
+  },
+  {
+    "name": "Cinemaraton Plus",
+    "logo": "https://i.imgur.com/rssD31Y.png",
+    "category": "Filme",
+    "number": 119
+  },
+  {
+    "name": "Nickelodeon",
+    "logo": "https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg",
+    "category": "Desene",
+    "number": 120
+  },
+  {
+    "name": "Minimax",
+    "logo": "https://yt3.googleusercontent.com/hLp8tB-iJybm4i4tnUA7DF30q9svuGUxGBIBgDO03B_NJAwNbQWqUMH56tUbu3AY-llfETg_Tg",
+    "category": "Desene",
+    "number": 121
+  },
+  {
+    "name": "Cartoon Network",
+    "logo": "https://yt3.googleusercontent.com/8OUgjuUH_sOUtP0TXJtkrfc1BIGWUW37xQrcVSl_eGYVt4hURLaUPNvRk1uJ70X0NEJRPIQwVg4",
+    "category": "Desene",
+    "number": 122
+  },
+  {
+    "name": "Disney Channel",
+    "logo": "https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh",
+    "category": "Desene",
+    "number": 123
+  },
+  {
+    "name": "Disney Junior",
+    "logo": "https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY",
+    "category": "Desene",
+    "number": 124
+  },
+  {
+    "name": "Cartoonito",
+    "logo": "https://i.imgur.com/IdXuedR.png",
+    "category": "Desene",
+    "number": 125
+  },
+  {
+    "name": "Duck TV",
+    "logo": "https://i.imgur.com/wwbeJY4.png",
+    "category": "Desene",
+    "number": 126
+  },
+  {
+    "name": "Tralala",
+    "logo": "https://i.imgur.com/wrIlvrI.png",
+    "category": "Desene",
+    "number": 127
+  },
+  {
+    "name": "JimJam",
+    "logo": "https://i.imgur.com/OOhDmPD.png",
+    "category": "Desene",
+    "number": 128
+  },
+  {
+    "name": "Nick Junior",
+    "logo": "https://yt3.googleusercontent.com/5Oe6GeP0RS7YYXlcSqCoBCyzYYtoxSgmN0K_FXQTBOY9tutzr5G1mXjfSmi76YAE3Q8WZXNByQ",
+    "category": "Desene",
+    "number": 129
+  },
+  {
+    "name": "Nick Toons",
+    "logo": "https://yt3.googleusercontent.com/TPhk3Qy2_2hTFH3djoIrUqFmqQSTXTodPwtdQOEsaQQP9HcnpMV2W25YUSFqejunjhKLrdHRGw",
+    "category": "Desene",
+    "number": 130
+  },
+  {
+    "name": "Da Vinci",
+    "logo": "https://yt3.googleusercontent.com/UEEx0EDGXZiQJHoyY_D4S8Q51g-zcodcL4JZH8vSNab7m2JuY55gHTlAwlWcB-bm19cIF4UlJq4",
+    "category": "Desene",
+    "number": 131
+  },
+  {
+    "name": "Digi World",
+    "logo": "https://i.imgur.com/V5Th8Da.png",
+    "category": "Documentare",
+    "number": 133
+  },
+  {
+    "name": "Digi Life",
+    "logo": "https://i.imgur.com/3NNW8qD.png",
+    "category": "Documentare",
+    "number": 135
+  },
+  {
+    "name": "Digi Animal World",
+    "logo": "https://i.imgur.com/3AyAQgy.png",
+    "category": "Documentare",
+    "number": 137
+  },
+  {
+    "name": "Discovery Channel",
+    "logo": "https://i.imgur.com/1GDOFEh.png",
+    "category": "Documentare",
+    "number": 139
+  },
+  {
+    "name": "TLC",
+    "logo": "https://i.imgur.com/Q9iOwVS.png",
+    "category": "Documentare",
+    "number": 141
+  },
+  {
+    "name": "History Channel",
+    "logo": "https://i.imgur.com/M3XFOGq.png",
+    "category": "Documentare",
+    "number": 142
+  },
+  {
+    "name": "National Geographic",
+    "logo": "https://i.imgur.com/KvAt1ft.png",
+    "category": "Documentare",
+    "number": 144
+  },
+  {
+    "name": "Viasat Nature",
+    "logo": "https://yt3.googleusercontent.com/-xDr2L7rR5Xv4XFAP3S9LQJzUgejnWRr195EiC74r0vGSMRfdLEehYwHCAocd2n2W55yVBjcFDY",
+    "category": "Documentare",
+    "number": 146
+  },
+  {
+    "name": "TV Paprika",
+    "logo": "https://i.imgur.com/ijIrxVx.png",
+    "category": "Documentare",
+    "number": 148
+  },
+  {
+    "name": "Food Network",
+    "logo": "https://i.imgur.com/8nmHZYu.png",
+    "category": "Documentare",
+    "number": 149
+  },
+  {
+    "name": "BBC Earth",
+    "logo": "https://yt3.googleusercontent.com/4aOOdq9yagLxasYPhdG7qQEVP-nrcmqoFD74N-dxw9ctOxXZtuSTTZKGzNsx-Nn0OqzVGnPZUA",
+    "category": "Documentare",
+    "number": 151
+  },
+  {
+    "name": "National Geographic Wild",
+    "logo": "https://i.imgur.com/bjXe0HG.png",
+    "category": "Documentare",
+    "number": 153
+  },
+  {
+    "name": "Viasat Explore",
+    "logo": "https://yt3.googleusercontent.com/_EX4_MfwdHnGHuKwoucMqcaP8g6o5mHHsd6drNey6NCw26FshLHf7D2B-K6Ntdj6bBUhh4ZxsoY",
+    "category": "Documentare",
+    "number": 155
+  },
+  {
+    "name": "Viasat History",
+    "logo": "https://yt3.googleusercontent.com/GVpF-wrQIIGQuwDUUElGzAU00Ibop4I9JZeIKQgLq4mDV2nQorvw4nbxl-vYXQ3smolqgbLap3I",
+    "category": "Documentare",
+    "number": 157
+  },
+  {
+    "name": "HGTV",
+    "logo": "https://i.imgur.com/D8iiX8c.png",
+    "category": "Documentare",
+    "number": 159
+  },
+  {
+    "name": "Prima History",
+    "logo": "https://i.imgur.com/ytvqOzD.png",
+    "category": "Documentare",
+    "number": 161
+  },
+  {
+    "name": "Fashion TV",
+    "logo": "https://i.imgur.com/7IcWx92.png",
+    "category": "Diverse",
+    "number": 162
+  },
+  {
+    "name": "E! Entertainment",
+    "logo": "https://yt3.googleusercontent.com/5dENunTd9mqCTygK6W2EBKC7aWW_v4odPBFVikDFIXvGJXv8wpiTdQycysr9P4cyzBjAnXkwZA",
+    "category": "Filme",
+    "number": 163
+  },
+  {
+    "name": "Trinitas TV",
+    "logo": "https://i.imgur.com/LxTawCn.png",
+    "category": "Religioase",
+    "number": 165
+  },
+  {
+    "name": "Angelus TV",
+    "logo": "https://yt3.googleusercontent.com/uSc2WwVs6mXw--oZSrnjV6Ekq_1rzjRDW0qAmt6OdB8u2-ffbjf3UbptP4zjin2XK7fdXrx6",
+    "category": "Religioase",
+    "number": 168
+  },
+  {
+    "name": "Credo TV",
+    "logo": "https://i.imgur.com/MrRp4Pn.png",
+    "category": "Religioase",
+    "number": 169
+  },
+  {
+    "name": "Alfa Omega",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kBZrU8e4vLgHsOtNk3c4oGCnG9cWgMEf1B2LJpvdR88Ko",
+    "category": "Religioase",
+    "number": 170
+  },
+  {
+    "name": "Speranta TV",
+    "logo": "https://i.imgur.com/GKSADRr.png",
+    "category": "Religioase",
+    "number": 171
+  },
+  {
+    "name": "Atomic",
+    "logo": "https://i.imgur.com/dGsaHae.png",
+    "category": "Generaliste",
+    "number": 173
+  },
+  {
+    "name": "U TV",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_l30daKPnpJg9ZQRAcaY707r3B2eRwDl0DNYgx7u4q65Q",
+    "category": "Generaliste",
+    "number": 174
+  },
+  {
+    "name": "Kiss TV",
+    "logo": "https://i.imgur.com/MoxSG37.png",
+    "category": "Muzica",
+    "number": 176
+  },
+  {
+    "name": "Hit Music Channel",
+    "logo": "https://i.imgur.com/VMkgp8J.png",
+    "category": "Muzica",
+    "number": 177
+  },
+  {
+    "name": "MTV",
+    "logo": "https://yt3.googleusercontent.com/IddRuVuOf3ElbyV6BC0R4bXh9r30uDTCbZsENR6V4xF9Uj7yFxRw3cLcnssfPAHLlWqNdeO9EA",
+    "category": "Muzica",
+    "number": 178
+  },
+  {
+    "name": "Music Channel",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kl_y0-uvzV743Jg2HHfx_bsftmTfjpcgZKk-p_uwTgrg",
+    "category": "Muzica",
+    "number": 179
+  },
+  {
+    "name": "Magic TV",
+    "logo": "https://i.imgur.com/lM1mNXY.png",
+    "category": "Muzica",
+    "number": 182
+  },
+  {
+    "name": "Mezzo",
+    "logo": "https://i.imgur.com/XUjLKce.png",
+    "category": "Muzica",
+    "number": 183
+  },
+  {
+    "name": "Party Mix",
+    "logo": "https://i.imgur.com/yzl1pFf.png",
+    "category": "Muzica",
+    "number": 184
+  },
+  {
+    "name": "Balcan Music TV",
+    "logo": "https://i.imgur.com/sIZ4Xgh.png",
+    "category": "Muzica",
+    "number": 186
+  },
+  {
+    "name": "Traditional TV",
+    "logo": "https://i.imgur.com/XWptw2r.png",
+    "category": "Muzica",
+    "number": 188
+  },
+  {
+    "name": "Taraf TV",
+    "logo": "https://i.imgur.com/jHxtX4s.png",
+    "category": "Muzica",
+    "number": 191
+  },
+  {
+    "name": "Nasul TV",
+    "logo": "https://i.imgur.com/KOvPwNn.png",
+    "category": "Stiri",
+    "number": 193
+  },
+  {
+    "name": "Agro TV",
+    "logo": "https://i.imgur.com/p0bj6vE.png",
+    "category": "Documentare",
+    "number": 194
+  },
+  {
+    "name": "Fishing and Hunting",
+    "logo": "https://i.imgur.com/70CVFOW.png",
+    "category": "Sport",
+    "number": 195
+  },
+  {
+    "name": "TVR Cultural",
+    "logo": "https://i.imgur.com/v0L2yvz.png",
+    "category": "Documentare",
+    "number": 196
+  },
+  {
+    "name": "Rai 1",
+    "logo": "https://i.imgur.com/8jCYvzA.png",
+    "category": "Internationale",
+    "number": 200
+  },
+  {
+    "name": "Rai 3",
+    "logo": "https://i.imgur.com/RAShKwe.png",
+    "category": "Internationale",
+    "number": 201
+  },
+  {
+    "name": "Job TV",
+    "logo": "https://i.imgur.com/ajHIB8J.png",
+    "category": "Diverse",
+    "number": 210
+  },
+  {
+    "name": "Antena Comedy",
+    "logo": "https://i.imgur.com/qa1XYDt.png",
+    "category": "Filme",
+    "number": 1000
+  },
+  {
+    "name": "Atomic Academy TV",
+    "logo": "https://i.imgur.com/wBF0mZk.png",
+    "category": "Generaliste",
+    "number": 1001
+  },
+  {
+    "name": "Banat TV",
+    "logo": "https://i.imgur.com/QJzoUKw.png",
+    "category": "Locale",
+    "number": 1002
+  },
+  {
+    "name": "Bucovina TV",
+    "logo": "https://yt3.googleusercontent.com/SVDe28knClQQerOPaZuh7FCOxPwxObli1MRzW9iegPqrJnIayWJZ0T2n1kdwvAquPgVMEQgKHQ",
+    "category": "Locale",
+    "number": 1003
+  },
+  {
+    "name": "Crime & Investigation",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kZu-RG3SycH-w5zNge6IxcP3cWteswej-5SdC2pokJyw",
+    "category": "Filme",
+    "number": 1005
+  },
+  {
+    "name": "Dizi",
+    "logo": "https://i.imgur.com/wAbZeag.png",
+    "category": "Filme",
+    "number": 1006
+  },
+  {
+    "name": "DocuBox",
+    "logo": "https://i.imgur.com/gNEr0eK.png",
+    "category": "Documentare",
+    "number": 1007
+  },
+  {
+    "name": "Dotto TV",
+    "logo": "https://i.imgur.com/rGVtxYN.png",
+    "category": "Locale",
+    "number": 1008
+  },
+  {
+    "name": "FightBox",
+    "logo": "https://i.imgur.com/YSkl8xx.png",
+    "category": "Sport",
+    "number": 1009
+  },
+  {
+    "name": "FilmBox Emotion",
+    "logo": "https://i.imgur.com/T5iShs0.png",
+    "category": "Filme",
+    "number": 1010
+  },
+  {
+    "name": "FilmBox Hits",
+    "logo": "https://i.imgur.com/nviV1dy.png",
+    "category": "Filme",
+    "number": 1011
+  },
+  {
+    "name": "FilmBox One",
+    "logo": "https://i.imgur.com/czr2GpO.png",
+    "category": "Filme",
+    "number": 1012
+  },
+  {
+    "name": "Filme Actiune 1",
+    "logo": "https://i.imgur.com/clsEvMq.png",
+    "category": "Filme",
+    "number": 1013
+  },
+  {
+    "name": "Filme Actiune 2",
+    "logo": "https://i.imgur.com/clsEvMq.png",
+    "category": "Filme",
+    "number": 1014
+  },
+  {
+    "name": "Filme Actiune 3",
+    "logo": "https://i.imgur.com/clsEvMq.png",
+    "category": "Filme",
+    "number": 1015
+  },
+  {
+    "name": "Filme Angelina Jolie",
+    "logo": "https://i.imgur.com/G2I8TpX.png",
+    "category": "Filme",
+    "number": 1016
+  },
+  {
+    "name": "Filme Bollywood",
+    "logo": "https://i.imgur.com/MSuFjB4.png",
+    "category": "Filme",
+    "number": 1017
+  },
+  {
+    "name": "Filme Comedie 1",
+    "logo": "https://i.imgur.com/wMrxxHs.png",
+    "category": "Filme",
+    "number": 1018
+  },
+  {
+    "name": "Filme Comedie 2",
+    "logo": "https://i.imgur.com/wMrxxHs.png",
+    "category": "Filme",
+    "number": 1019
+  },
+  {
+    "name": "Filme Craciun",
+    "logo": "https://i.imgur.com/A4JMVac.png",
+    "category": "Filme",
+    "number": 1020
+  },
+  {
+    "name": "Filme Fantasy",
+    "logo": "https://i.imgur.com/TK05IHu.png",
+    "category": "Filme",
+    "number": 1021
+  },
+  {
+    "name": "Filme Horror 1",
+    "logo": "https://i.imgur.com/LcaO0h1.png",
+    "category": "Filme",
+    "number": 1022
+  },
+  {
+    "name": "Filme Horror 2",
+    "logo": "https://i.imgur.com/LcaO0h1.png",
+    "category": "Filme",
+    "number": 1023
+  },
+  {
+    "name": "Filme Jason Statham",
+    "logo": "https://i.imgur.com/VABbgAy.png",
+    "category": "Filme",
+    "number": 1024
+  },
+  {
+    "name": "Filme John Travolta",
+    "logo": "https://i.imgur.com/2KRCBPf.png",
+    "category": "Filme",
+    "number": 1025
+  },
+  {
+    "name": "Filme Premiere",
+    "logo": "https://i.imgur.com/zjX4nlg.png",
+    "category": "Filme",
+    "number": 1026
+  },
+  {
+    "name": "Filme Razboi",
+    "logo": "https://i.imgur.com/raVu6sC.png",
+    "category": "Filme",
+    "number": 1027
+  },
+  {
+    "name": "Filme Sci-Fi 1",
+    "logo": "https://i.imgur.com/MeTFYdV.png",
+    "category": "Filme",
+    "number": 1028
+  },
+  {
+    "name": "Filme Sci-Fi 2",
+    "logo": "https://i.imgur.com/MeTFYdV.png",
+    "category": "Filme",
+    "number": 1029
+  },
+  {
+    "name": "Filme Sylvester Stallone",
+    "logo": "https://i.imgur.com/sdE5c6j.png",
+    "category": "Filme",
+    "number": 1030
+  },
+  {
+    "name": "Filme Thriller 1",
+    "logo": "https://i.imgur.com/yYdIm1e.png",
+    "category": "Filme",
+    "number": 1031
+  },
+  {
+    "name": "Filme Thriller 2",
+    "logo": "https://i.imgur.com/yYdIm1e.png",
+    "category": "Filme",
+    "number": 1032
+  },
+  {
+    "name": "Filme Western",
+    "logo": "https://i.imgur.com/Yfpeclr.png",
+    "category": "Filme",
+    "number": 1033
+  },
+  {
+    "name": "Grizzy & Lemmings",
+    "logo": "https://i.imgur.com/HbXLWpx.png",
+    "category": "Desene",
+    "number": 1034
+  },
+  {
+    "name": "HD365",
+    "logo": "https://i.imgur.com/r4aRBUG.png",
+    "category": "Documentare",
+    "number": 1035
+  },
+  {
+    "name": "Hunedoara 1",
+    "logo": "https://i.imgur.com/EooD3Ze.png",
+    "category": "Locale",
+    "number": 1036
+  },
+  {
+    "name": "ID Investigation",
+    "logo": "https://i.imgur.com/Qi5OIvk.png",
+    "category": "Documentare",
+    "number": 1037
+  },
+  {
+    "name": "Impact TV Dance",
+    "logo": "https://i.imgur.com/CGqzVPW.png",
+    "category": "Muzica",
+    "number": 1038
+  },
+  {
+    "name": "Impact TV Manele",
+    "logo": "https://i.imgur.com/XdLexe6.png",
+    "category": "Muzica",
+    "number": 1040
+  },
+  {
+    "name": "Kids Mania",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_kRAlZUOZRU6sc0gs5QTUc-4P7G9ne8kEh-NhXW38m6mg",
+    "category": "Desene",
+    "number": 1041
+  },
+  {
+    "name": "Las Fierbinti",
+    "logo": "https://i.imgur.com/w7EbOWP.png",
+    "category": "Generaliste",
+    "number": 1042
+  },
+  {
+    "name": "Light Channel",
+    "logo": "https://i.imgur.com/qCBIVBG.png",
+    "category": "Religioase",
+    "number": 1043
+  },
+  {
+    "name": "Medicool TV",
+    "logo": "https://yt3.googleusercontent.com/jcQZxCW1iq4TFjTxnNW1D5dwiOMkArZWImuNKm-gN0N-COFAVNn_qDA_2066mVqo8H7Dpj5e1F8",
+    "category": "Documentare",
+    "number": 1044
+  },
+  {
+    "name": "Mireasa TV",
+    "logo": "https://yt3.googleusercontent.com/JB_urQJrFsAXWwe_zy1VqFh8HXI1IH99U4F_TTSHp0TuaghZzA30pFXc_cijSKbXUkOy_jk5AQ",
+    "category": "Generaliste",
+    "number": 1045
+  },
+  {
+    "name": "Mooz Dance",
+    "logo": "https://i.imgur.com/uP6p9Bi.png",
+    "category": "Muzica",
+    "number": 1046
+  },
+  {
+    "name": "Observator News",
+    "logo": "https://yt3.googleusercontent.com/F-bIRxdRmS49azCWeAt9XO3n5q3-rXEfnGaaTjFuwkinhpS6Dv3X2sCXEKY8KzknsOQ3lKE5ElY",
+    "category": "Stiri",
+    "number": 1047
+  },
+  {
+    "name": "Peppa Pig",
+    "logo": "https://yt3.googleusercontent.com/4sHHtkYxkkdfdqyhFG_mt1U-C46v3zt7z5jsySrXnAqRTHrnlUJfVRRF-02szzgaOhqz1eVX",
+    "category": "Desene",
+    "number": 1048
+  },
+  {
+    "name": "Povesti cu Masha",
+    "logo": "https://i.imgur.com/UVLzkIH.png",
+    "category": "Desene",
+    "number": 1049
+  },
+  {
+    "name": "PrimaSport 5",
+    "logo": "https://i.imgur.com/pWJwQCe.png",
+    "category": "Sport",
+    "number": 1050
+  },
+  {
+    "name": "Rapsodia TV",
+    "logo": "https://i.imgur.com/ecr5n8d.png",
+    "category": "Generaliste",
+    "number": 1051
+  },
+  {
+    "name": "Realitatea MD",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_n5z2JUlFjC-vNZhJCvIXJxTdILFONFXDfQRSdht5GECXQ",
+    "category": "Stiri",
+    "number": 1053
+  },
+  {
+    "name": "Realitatea Sportiva",
+    "logo": "https://i.imgur.com/aiUWMIE.png",
+    "category": "Sport",
+    "number": 1054
+  },
+  {
+    "name": "RTN Chicago",
+    "logo": "https://i.imgur.com/zaY8xrF.png",
+    "category": "Locale",
+    "number": 1055
+  },
+  {
+    "name": "Tele 7 ABC",
+    "logo": "https://i.imgur.com/WDWL00N.png",
+    "category": "Locale",
+    "number": 1056
+  },
+  {
+    "name": "Tele 7 Music",
+    "logo": "https://i.imgur.com/igodmjb.png",
+    "category": "Muzica",
+    "number": 1057
+  },
+  {
+    "name": "Tele M Botosani",
+    "logo": "https://i.imgur.com/5E2beal.png",
+    "category": "Locale",
+    "number": 1058
+  },
+  {
+    "name": "Tele Moldova+",
+    "logo": "https://i.imgur.com/o2Z2Euk.png",
+    "category": "Locale",
+    "number": 1059
+  },
+  {
+    "name": "TVR Cluj",
+    "logo": "https://i.imgur.com/3xF95GK.png",
+    "category": "Locale",
+    "number": 1061
+  },
+  {
+    "name": "TVR Craiova",
+    "logo": "https://i.imgur.com/kD8TP3g.png",
+    "category": "Locale",
+    "number": 1063
+  },
+  {
+    "name": "TVR Iasi",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mEsBMLkAwJCHrhwWaaRCTTj2JN-bo3hRnXMfPngZeBBLE",
+    "category": "Locale",
+    "number": 1064
+  },
+  {
+    "name": "TVR International",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_ndGZh5DQJ2GM9FoWEh92j8wNhDoQJqfkUdSm1yt_RlNw",
+    "category": "Generaliste",
+    "number": 1065
+  },
+  {
+    "name": "TVR Timisoara",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lRCKpmFitjOJy1Hyiuqmlezec14f1xNv4S6Nz0qFoUYYc",
+    "category": "Locale",
+    "number": 1066
+  },
+  {
+    "name": "Chefi.ro",
+    "logo": "https://yt3.googleusercontent.com/zc1bvCvvBfdH01SvISmWKqad6zSFs4IND0QPJ5MrJ7QZY0cFtPO4EFcqmt4vAur8aFjkYOlzRA",
+    "category": "Generaliste",
+    "number": 1067
+  }
+]
